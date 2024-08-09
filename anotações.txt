@@ -1,0 +1,17 @@
+mvn clean install -DskipTests=true
+mvn spring-boot:run -DskipTests=true
+
+Como Construir e Executar
+Construir a Imagem:
+
+Navegue até o diretório onde está o Dockerfile e execute:
+bash
+Copiar código
+docker build -t nome-da-imagem .
+Executar o Contêiner:
+
+Execute o contêiner da imagem criada:
+bash
+Copiar código
+docker run -p 8080:8080 nome-da-imagem
+Isso fará com que sua aplicação esteja acessível em http://localhost:8080.
