@@ -35,7 +35,7 @@ mvn spring-boot:run
 ### Tecnologias
 
 - [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
-- [Postgres]([https://spring.io/projects/spring-data-mongodb/](https://mvnrepository.com/artifact/org.postgresql/postgresql))
+- [Postgres]([https://spring.io/projects/spring-data-mongodb/](https://mvnrepository.com/artifact/org.postgresql/postgresql)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Spring Security](https://spring.io/projects/spring-security)
 - [JWT](https://jwt.io/introduction)
